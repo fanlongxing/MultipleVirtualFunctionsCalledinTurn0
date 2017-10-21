@@ -1,0 +1,2 @@
+# MultipleVirtualFunctionsCalledinTurn0
+依次调用
